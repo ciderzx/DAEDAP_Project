@@ -1,10 +1,6 @@
 # DAEDAP_Project
 <h1 align="left">Unity Project [ DAEDAP ]</h1>
 
-<p align = "center">
-  <img width="40%" height="40%" align = "center" src="https://github.com/ciderzx/Unity_MengoTour/assets/66687236/c7fcabed-bcb3-4319-834c-989bcd2266a7"/>
-</p>
-
 <h3> Game Information </h3>
 
 + 이름 : DAEDAP
@@ -58,12 +54,11 @@
 <h2 align="left"> Project Summary </h2>
 
 기여도
-+ 기획 : 35%  /  개발 : 65%
++ 기획 : 45%  /  개발 : 55%
 
 About
-+ 해당 프로젝트 ‘Mengo Tour’는 3D & VR 온라인 시뮬레이션 입니다. 팀에서 찍은 모델로 나라를 구성하고 온라인에서 만나 해당 나라의 미션을 완수하고 즐기는
-  캐주얼 게임 입니다. VR 모델은 ‘Samsung  Gear VR’을 모델로 잡았고 온라인을 구축하기 위해 ‘Photon’ Asset을 사용하여 구현 하였습니다.
-+ 진행 방식은 해당 플레이어가 모델을 선택하고 방에 접속하거나 만들어 온라인 플레이를 진행하게 됩니다. 플레이를 하게 되면 주사위를 굴려 해당 숫자만큼 이동하여 
-  타일에 설정 된 나라에 플레이어 모두가 들어가 미션을 진행하는 플레이입니다.
++ 해당 프로젝트는 로그라이크를 기반으로 제작된 게임 입니다. 7대 죄악 스토리를 기반으로 몬스터가 나오고 스테이지를 클리어 하고 난 뒤 보스가 나오는 시스템 입니다
+
+  
 
 ---
